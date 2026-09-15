@@ -1,1 +1,3 @@
-# Q1-CS2-PROJECT
+# TaskTrack
+
+A simple Python assignment tracker that helps students organize their tasks, deadlines, and assignment status.
