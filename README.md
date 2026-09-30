@@ -1,5 +1,5 @@
 
-# TaskTrack: A Student Assignment Tracking System
+**# TaskTrack: A Student Assignment Tracking System**
 
 ## Overview
 
